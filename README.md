@@ -3,7 +3,7 @@
 *Welcome to my C++ programming language repository, In this repository I showcase my C++ programming skills from scratch to Advance Level*
 
 ## Below is the following content that I learn:
-### 1) (C++ first program)[https://github.com/avarshvir/cpp_programming_language/blob/main/1_first_program/first_code_1.cpp]
+### 1) C++ first program
 ### 2) Input function
 ### 3) Variables
 ### 4) Datatypes
