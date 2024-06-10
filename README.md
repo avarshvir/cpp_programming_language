@@ -130,7 +130,7 @@
  * Hybrid Inheritance
  * Ambiguity and sol. of ambiguity while implementing multiple inheritance
  * Inheritance and Friendship
-
+<input/output, cin, cout, cin.getline, cin.get(char &var), cin.read,cin.ignore(),manipulators, cerr, clog, >
 
 ### Developer Info
     Developer Name : Arshvir
