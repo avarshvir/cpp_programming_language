@@ -1,0 +1,10 @@
+n C++, auto is a keyword used for type inference, introduced in the C++11 standard.
+When you use auto to declare a variable, the compiler deduces the type of that variable 
+based on its initializer.
+
+For example:
+
+cpp
+auto x = 10; // 'x' is deduced to be of type int
+auto y = 3.14; // 'y' is deduced to be of type double
+auto z = "Hello"; // 'z' is deduced to be of type const char*
