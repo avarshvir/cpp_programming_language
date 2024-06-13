@@ -130,6 +130,8 @@
  * Hybrid Inheritance
  * Ambiguity and sol. of ambiguity while implementing multiple inheritance
  * Inheritance and Friendship
+### 19) Polymorphism
+### 20) Virtual Function
 <input/output, cin, cout, cin.getline, cin.get(char &var), cin.read,cin.ignore(),manipulators, cerr, clog, >
 
 ### Developer Info
