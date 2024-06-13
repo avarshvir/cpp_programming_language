@@ -46,9 +46,9 @@
   #### Scope resolution Operator
   #### Other Operators
 ### 7) Typecasting
-### 8) Casting operators
-### 9) Type modifiers
-### 10) Control Structures :
+### 7.5) Casting operators
+### 8) Type modifiers
+### 9) Control Structures :
   #### Branch Statements
     * simple if
     * if else statement
@@ -65,7 +65,7 @@
     * goto
     * break
     *
-### 11) Functions
+### 10) Functions
  * Inbuilt Functions
  * User-defined Functions
  * Pass by Value and Pass by Reference
@@ -74,17 +74,17 @@
  * Friend Function
  * Lambda Function
  * Basic Recursive Functions
-### 12) Recursion
-### 13) Storage Classes
-### 14) String
+### 11) Recursion
+### 12) Storage Classes
+### 13) String
  * All About Strings
  * String Library Functions
-### 15) Arrays
+### 14) Arrays
  * Arrays
  * 1D Arrays
  * 2D and Multi-Dimensional Arrays
  * Arrays to Functions
-### 16) Pointers and References
+### 15) Pointers and References
  * Pointers
  * Reference
  * sizeof Operator
@@ -94,12 +94,12 @@
  * Function Pointers in c++
  * Array of Pointers in c++
  * basic of smart pointers
-### 17) Structure, Union and Enum
+### 16) Structure, Union and Enum
  * Structure
    * typedef
  * Union
  * Enum
-### 18) OOPs
+### 17) OOPs
  * Objects and Classes
  * Access Modifiers
     * Public
@@ -122,7 +122,7 @@
  * Nested Classes
  * Passing Object as Function Parameter
  * Returning Object from Functions
-### 19) Inheritance
+### 18) Inheritance
  * Single Inheritance
  * MultiLevel Inheritance
  * Hierarchical Inheritance
