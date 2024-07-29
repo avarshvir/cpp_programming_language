@@ -5,6 +5,10 @@ class UserDefinedType{
     int a;
     string b;
 
+    UserDefinedType(){
+        cout << "This is default Constructor" << endl;
+    }
+
     UserDefinedType(int a, string b){
         this->a = a;
         this->b = b;
@@ -12,6 +16,8 @@ class UserDefinedType{
     }
 };
 int main(){
+    UserDefinedType df2;
+
     UserDefinedType df(1,"Hello");
 
     cout << endl;
