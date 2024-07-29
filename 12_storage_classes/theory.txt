@@ -2,3 +2,30 @@ Storage classes are keywords in C++ programming that determine the lifespan,
 scope, and storage location of variables inside a program. 
 Storage classes govern how variables are kept in memory, how long they 
 persist, and how and where they may be retrieved.
+
+
+C++ has four major storage classes:
+
+-> auto: It is the default storage class for local variables declared within a block or 
+function. Variables with the "auto" storage class have automatic storage duration, 
+meaning they are created when the block or function is entered and destroyed when 
+it's exited. They are typically stored on the stack. the "auto" keyword is rarely 
+used directly because local variables are considered "auto" by default.
+
+-> register: The "register" storage class is used to instruct the compiler to store a 
+variable in a register, which is a tiny, fast-access storage space within the CPU. 
+However, the compiler is free to ignore this request, and modern compilers often 
+optimize register usage automatically. Variables with the "register" storage class 
+also have automatic storage duration.
+
+-> static: Variables declared with the "static" storage class have static storage 
+duration, meaning they are allocated memory for the entire program's duration. 
+They are created when the program starts and destroyed when it terminates. 
+The "static" variables have local scope within a block or function, but their 
+values persist across function calls. They are typically stored in a separate data 
+segment of memory.
+
+-> extern: The "extern" storage class is used to declare variables that are defined 
+in other source files. It extends the visibility of a variable to the entire 
+program. "extern" variables have global scope, and they are often used to share 
+variables across multiple source files.
