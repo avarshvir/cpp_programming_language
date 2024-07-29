@@ -1,0 +1,4 @@
+Storage classes are keywords in C++ programming that determine the lifespan, 
+scope, and storage location of variables inside a program. 
+Storage classes govern how variables are kept in memory, how long they 
+persist, and how and where they may be retrieved.
