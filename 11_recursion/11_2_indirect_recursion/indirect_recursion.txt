@@ -1,0 +1,6 @@
+Indirect recursion is occurs when two or more functions or routines take turns
+calling each other in a loop. They keep passing control back and forth, like a game of tag. 
+Eventually, one of these functions decides to break the loop by calling itself 
+directly, which stops the back-and-forth and ends the process. 
+It's a bit like a group of friends playing a game where they take turns tagging 
+each other, and at some point, one friend decides to tag themselves to stop the game.

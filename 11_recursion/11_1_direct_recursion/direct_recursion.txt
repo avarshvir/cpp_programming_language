@@ -1,0 +1,3 @@
+Direct Recursion: In this method, a function calls itself directly within its own body. 
+It's a straightforward form of recursion, 
+where a function unapologetically invokes itself.
