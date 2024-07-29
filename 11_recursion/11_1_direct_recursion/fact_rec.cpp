@@ -4,8 +4,9 @@
     {   
     int factorial(int);   
     int fact,value;   
-    cout<<"Enter any number: ";   
-    cin>>value;   
+    /*cout<<"Enter any number: ";   
+    cin>>value;*/   
+    value = 5;
     fact=factorial(value);   
     cout<<"Factorial of a number is: "<<fact<<endl;   
     return 0;   

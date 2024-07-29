@@ -1,0 +1,14 @@
+Algorithm: Steps
+
+Certainly, here are the steps for using recursion in a function, presented concisely:
+
+Base Case: It defines a termination condition that stops the recursion.
+Recursive Case: It expresses the problem in terms of smaller instances of itself.
+Implement Function: It writes the function with base case and recursive case.
+Adjust Parameters: It modifies input parameters to simplify the problem.
+Return Results: It provides a result in the base case(s).
+Handle Intermediates: It processes intermediate results if needed.
+Manage Call Stack: Understand how frames are pushed and popped.
+Test and Debug: Verify correctness and debug if necessary.
+Optimize (if needed): Improve efficiency using techniques like memoization or tail recursion.
+Call Function: Invoke the recursive function with initial inputs.
