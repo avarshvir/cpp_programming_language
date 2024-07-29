@@ -4,7 +4,7 @@ Storage classes govern how variables are kept in memory, how long they
 persist, and how and where they may be retrieved.
 
 
-C++ has four major storage classes:
+C++ has five major storage classes:
 
 -> auto: It is the default storage class for local variables declared within a block or 
 function. Variables with the "auto" storage class have automatic storage duration, 
@@ -29,3 +29,5 @@ segment of memory.
 in other source files. It extends the visibility of a variable to the entire 
 program. "extern" variables have global scope, and they are often used to share 
 variables across multiple source files.
+
+-> mutable: 
