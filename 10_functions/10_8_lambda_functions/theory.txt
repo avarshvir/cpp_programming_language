@@ -1,0 +1,48 @@
+The C++ language saw numerous changes and additions with the release of C++11. 
+Lambda expressions are among the most important new features included in C++11. 
+With the help of lambda expressions, we can create tiny, anonymous functions that 
+may be utilized as code snippets or as parameters to other functions.
+
+Understanding how lambda expressions operate is important for building 
+contemporary C++ code because they are a very powerful feature.
+
+Syntax:
+[capture-list] (parameters) mutable -> return-type {  
+    // body  
+}  
+
+or
+
+auto greet = []() {
+  // lambda function body
+};
+
+
+Syntax Explanation:
+Capture List:
+
+The capture list, which is optional, defines which variables from the surrounding scope the lambda expression may access. Later on in this essay, we'll go into more detail about the capture list.
+
+Mutable Specifier:
+
+The mutable specifier, which is also an option, lets you know whether the lambda expression can change any captured variables.
+
+Parameters:
+
+The inputs to the lambda expression are specified by the parameters, which are the same as for any other function.
+
+Return Type:
+
+The lambda expression's return type is specified by the optional return type. The compiler will infer the return type from the body of the lambda expression if it is not given.
+
+Body:
+
+When a lambda expression is called, it will run the code in the body. Any sane C++ code is acceptable.
+
+
+
+Common Use Cases for Lambda Expressions:
+-> Event Handling in GUI
+-> Sorting Algorithms
+-> Asynchronous Programming
+-> Function Composition
