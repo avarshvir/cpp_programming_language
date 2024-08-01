@@ -1,0 +1,12 @@
+A structure is a user-defined data type in C/C++. 
+A structure creates a data type that can be used to group items of possibly 
+different types into a single type. 
+
+Structures in C++ can contain two types of members:  
+
+Data Member: These members are normal C++ variables. We can create a structure with 
+variables of different data types in C++.
+Member Functions: These members are normal C++ functions. Along with variables, we 
+can also include functions inside a structure declaration.
+
+we cannot initialize value inside structure in C but in C++ it is possible.
