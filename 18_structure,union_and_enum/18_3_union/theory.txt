@@ -4,3 +4,6 @@ Similarly to the structure, the union can contain different types of data types.
 Each time a new variable is initialized from the union it overwrites the previous in C language but in C++ we also don’t need this keyword and uses that memory location.
 This is most useful when the type of data being passed through functions is unknown, using a union which contains all possible data types can remedy this problem.
 It is declared by using the keyword “union“.
+
+A union allows you to store different data types in the same memory location. Only one of the union’s members can be used at a time.
+It is useful for saving memory when you need to store one of several possible types.

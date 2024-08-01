@@ -1,0 +1,25 @@
+Object Oriented Programming is a paradigm that provides many concepts such as 
+inheritance, data binding, polymorphism etc.
+
+The programming paradigm where everything is represented as an object is known 
+as truly object-oriented programming language. Smalltalk is considered as the first 
+truly object-oriented programming language.
+
+Object-oriented programming – As the name suggests uses objects in programming. 
+Object-oriented programming aims to implement real-world entities like inheritance, 
+hiding, polymorphism, etc. in programming. The main aim of OOP is to bind together 
+the data and the functions that operate on them so that no other part of the code 
+can access this data except that function.
+
+There are some basic concepts that act as the building blocks of OOPs i.e.
+
+Class
+Objects
+Encapsulation
+Abstraction
+Polymorphism
+Inheritance
+Dynamic Binding
+Message Passing
+
+more theory in GeeksForGeeks and JavaTpoint
