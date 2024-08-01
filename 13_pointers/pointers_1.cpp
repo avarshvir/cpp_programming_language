@@ -9,4 +9,6 @@ int main(){
 
     cout << *ptr << endl;           // Outputs: 5
     cout << value << endl;
+
+    cout << *&ptr << endl;  
 }
