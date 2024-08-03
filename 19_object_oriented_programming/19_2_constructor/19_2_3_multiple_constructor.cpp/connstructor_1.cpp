@@ -25,17 +25,10 @@ class MultipleConstructor{
     }
 
     void display(){
-        if(!float_data){
-            cout << "numeric data : " << num_data << endl;
-            cout << "binary data : " << binary_data << endl;
-        }else{
             cout << "numeric data : " << num_data << endl;
             cout << "float data : " << float_data << endl;
             cout << "text data : " << text_data << endl;
             cout << "binary data : " << binary_data << endl;
-        }
-       
-        
         
     }
 
