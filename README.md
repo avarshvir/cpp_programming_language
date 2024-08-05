@@ -133,6 +133,7 @@
 ### 19) Polymorphism
 ### 20) Virtual Function
 <input/output, cin, cout, cin.getline, cin.get(char &var), cin.read,cin.ignore(),manipulators, cerr, clog, >
+### multithreading, networking, namespace,....
 
 ### Developer Info
     Developer Name : Arshvir
