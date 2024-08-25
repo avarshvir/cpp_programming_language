@@ -12,4 +12,7 @@ class Employee{
 };
 class Programmer{
     
-} 
+};
+int main(){
+    
+}
