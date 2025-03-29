@@ -2,8 +2,8 @@
 using namespace std;
 int main(){
     int integer;
-    cout << "Write integer number : "<<endl;
+    cout << "Write integer number : " << endl;
     cin >> integer;
-    cout << "Integer :" <<integer << endl;
+    cout << "Integer :" << integer << endl;
     return 0;
 }
