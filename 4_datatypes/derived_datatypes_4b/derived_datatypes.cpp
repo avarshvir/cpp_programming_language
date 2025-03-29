@@ -17,7 +17,7 @@ int main(){
     //pointers
     int *ptr;
     int var = 1;
-    ptr = &var;
+    ptr = &var;        // ptr points to var's address
     cout << ptr <<endl;
     cout << &var <<endl;
     cout << *ptr<<endl;
@@ -25,7 +25,7 @@ int main(){
 
     //references
     int original_ref_var = 100;
-    int &ref = original_ref_var;
+    int &ref = original_ref_var;    // ref is an alias for original_ref_var
     cout << ref <<endl;
     cout << &ref <<endl;
     cout << &original_ref_var;
