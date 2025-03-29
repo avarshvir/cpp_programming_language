@@ -9,8 +9,10 @@ int main(){
     unsigned int a6;
     short int a7;
 
-    float b;
     long l;
+    long double ld1;
+
+    float b;
     double c;
     bool d;
     char e1;
